@@ -20,6 +20,11 @@ I juggle work, tango, language learning and strength training, and when the day 
 - **My role:** product owner. I wrote the requirements, including a "right now I'm doing…" mode, an "away from home" mode, notifications, and weekly and monthly summaries.
 - **AI tools:** Claude Code, GPT Codex and Gemini designed the scheduling logic and implemented the app.
 
+<p>
+  <img src="screenshots/planner-today.png" alt="Daily Planner: today's plan with the next activity" width="300">
+  <img src="screenshots/planner-calendar.png" alt="Daily Planner: read-only calendar settings" width="300">
+</p>
+
 ## 3. Susedia | Сусіди – Slovak–Ukrainian language learning (PWA)
 
 Many Slovaks and Ukrainians live side by side but lack a shared way to learn each other's language, so I wanted both groups to learn from the same material. It started as Ukrainian stories with a Slovak translation next to each paragraph and grew into an app with vocabulary, exercises with real-time feedback, spaced repetition and an interface that switches between Slovak and Ukrainian. I also use it to learn Ukrainian myself.
